@@ -1,6 +1,6 @@
-# OpenStack-select-image role for Ansible
+# An Ansible role to pick an image from OpenStack cloud
 
-Finds an image in OpenStack cloud, according to specified constains.
+This role finds an image in OpenStack cloud, according to specified constains.
 
 # How to use
 
